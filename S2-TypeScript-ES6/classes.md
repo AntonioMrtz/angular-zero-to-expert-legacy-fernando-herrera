@@ -1,6 +1,6 @@
 # Classes
 
-* If there are a lot of attributes to initialize in the constructor using `private/public attrName` will declare attrName as class attribute and initialize it with the value provided in the constructor. This makes declaring the attr in the class body not needed.
+* If there are a lot of attributes to initialize in the constructor we can declare `private/public attrName` as constructor param . This will declare `attrName` as class attribute and initialize it with the value provided in the constructor. This makes declaring the attr in the class body not needed.
 * Private class attrs can be accessed only inside the class. Public ones in the other hand can be accessed from outside the class.
 
 ```ts
