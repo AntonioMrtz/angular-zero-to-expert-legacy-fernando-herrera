@@ -1,6 +1,6 @@
 # Class Decorators
 
-Executes code on class declaration. Needs `experimentalDecorators` in `tsconfig.ts`. Can be util at infrastructure level. It's used in Angular `Injectable`.
+Executes code on class declaration. Needs `experimentalDecorators` in `tsconfig.ts`. Can be useful at infrastructure level. It's used in Angular `Injectable`.
 
 
 ```ts

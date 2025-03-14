@@ -1,6 +1,5 @@
 # Classes
 
-
 * Declare `public attr2: number` parameter in the class constructor for not having to assign a value to `attr2` like `this.attr2=attr2`.
 * Private class attrs can be accessed only inside the class. Public ones in the other hand can be accessed from outside the class.
 
